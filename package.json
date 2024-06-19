@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@elgato-stream-deck/node": "^6.2.0",
+    "canvas": "^2.11.2",
+  }
+}
