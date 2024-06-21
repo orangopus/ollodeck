@@ -2,5 +2,13 @@
   "dependencies": {
     "@elgato-stream-deck/node": "^6.2.0",
     "canvas": "^2.11.2",
-  }
+    "discord-rich-presence": "^0.0.8",
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "spotify-node-wrapper": "^2.5.0",
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "type": "module"
 }
