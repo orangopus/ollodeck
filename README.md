@@ -1,4 +1,6 @@
 # ollodeck
 StreamDeck Playerctl plugin for the StreamDeck Neo
 
-Documentation coming soon
+Features:
+- Automation
+- ChatGPT (jk)
